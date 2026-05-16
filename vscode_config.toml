@@ -1,0 +1,83 @@
+# 编辑器的主字体
+"editor.fontFamily" = "'JetBrains Mono NL', 'Sarasa Gothic SC', 'Maple Mono NL NF CN'"
+
+# Markdown预览字体
+"markdown.preview.fontFamily" = "'Maple Mono NL NF CN', 'JetBrains Mono NL', 'Sarasa Gothic SC'"
+
+# 主题
+"workbench.colorTheme" = "Dracula Theme"
+
+# 图标主题
+"workbench.iconTheme" = "material-icon-theme"
+
+# Markdown预览主题
+"markdown.styles" = "https://cdn.jsdmirror.cn/gh/xrunes/vsc_md_preview_theme/style.css"
+
+# 自定义Git路径
+"git.path" = "D:\\Application\\PortableGit\\bin\\git.exe"
+
+# 打开文件时自动猜测字符集
+"files.autoGuessEncoding" = true
+
+# 滚动时顶部是否嵌套作用域
+"editor.stickyScroll.enabled" = false
+
+# 滚动终端时顶部是否显示命令
+"terminal.integrated.stickyScroll.enabled" = false
+
+# 是否启用集成浏览器按钮
+"workbench.browser.showInTitleBar" = true
+
+# 是否禁用AI功能
+"chat.disableAIFeatures" = true
+
+# 滚动Markdown预览与编辑器
+"markdown.preview.scrollEditorWithPreview" = false
+"markdown.preview.scrollPreviewWithEditor" = false
+
+# 是否自动检查更新
+"update.mode" = "manual"
+
+# host文件关联 host的另一个关联似乎是ini
+[files.associations]
+hosts = "shellscript"
+
+# codeimg扩展，输出终端图片间距
+# "codeimg.terminalLineHeight" = 2
+
+# 代码操作小灯泡提示
+# "editor.lightbulb.enabled" = "off"
+
+# 是否启用工作区
+# "security.workspace.trust.enabled" = false
+
+# 是否自动换行
+# "editor.wordWrap" = "on"
+
+# 是否显示空文档的提示生成代码 关闭AI功能后似乎就已经没有了
+# "workbench.editor.empty.hint" = "hidden"
+
+# 辅助侧边栏的可见性 关闭AI功能后似乎就已经没有了
+# "workbench.secondarySideBar.defaultVisibility" = "hidden"
+
+# 是否显示前进后退按钮
+# "workbench.navigationControl.enabled" = false
+
+# Red Hat扩展上传数据开关
+# "redhat.telemetry.enabled" = true
+
+# 暂时用不到的配置
+# 
+# "security.allowedUNCHosts": [
+#         "wsl.localhost",
+#         "192.168.137.129"
+#     ],
+
+# "remote.SSH.remotePlatform": {
+#         "8.130.48.140": "linux",
+#         "aliyun": "linux"
+#     },
+
+# "markdown.copyFiles.destination": {
+#         "**/*.md": "${documentBaseName}/${fileName}"
+#     },
