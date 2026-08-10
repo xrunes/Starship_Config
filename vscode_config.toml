@@ -31,19 +31,22 @@
 # 是否禁用AI功能
 "chat.disableAIFeatures" = true
 
-# 滚动Markdown预览与编辑器
-"markdown.preview.scrollEditorWithPreview" = false
-"markdown.preview.scrollPreviewWithEditor" = false
-
 # 是否自动下载json架构（schema）来验证json文件
 "json.schemaDownload.enable" = false
 
 # 是否启用工作区
 "security.workspace.trust.enabled" = false
 
+# 控制特定页面的编辑器是否在浮层中打开
+"workbench.editor.useModal" = "off"
+
 # host文件关联 host的另一个关联似乎是ini
 [files.associations]
 hosts = "shellscript"
+
+# 滚动Markdown预览与编辑器
+# "markdown.preview.scrollEditorWithPreview" = false
+# "markdown.preview.scrollPreviewWithEditor" = false
 
 # 是否自动检查更新
 # "update.mode" = "manual"
