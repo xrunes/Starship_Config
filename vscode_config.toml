@@ -40,9 +40,13 @@
 # 控制特定页面的编辑器是否在浮层中打开
 "workbench.editor.useModal" = "off"
 
+# 是否启用新UI
+"workbench.experimental.modernUI" = false
+
 # host文件关联 host的另一个关联似乎是ini
 [files.associations]
 hosts = "shellscript"
+config = "shellscript"
 
 # 滚动Markdown预览与编辑器
 # "markdown.preview.scrollEditorWithPreview" = false
