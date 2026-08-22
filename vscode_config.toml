@@ -47,7 +47,7 @@
 [files.associations]
 hosts = "shellscript"
 config = "shellscript"
-*.service = "shellscript"
+"*.service" = "shellscript"
 
 # 滚动Markdown预览与编辑器
 # "markdown.preview.scrollEditorWithPreview" = false
