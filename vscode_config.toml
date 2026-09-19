@@ -43,6 +43,9 @@
 # 是否启用新UI
 "workbench.experimental.modernUI" = false
 
+# 是否启用代码折叠
+"editor.folding" = false
+
 # host文件关联 host的另一个关联似乎是ini
 [files.associations]
 hosts = "shellscript"
