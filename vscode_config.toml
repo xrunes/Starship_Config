@@ -11,7 +11,7 @@
 "workbench.iconTheme" = "material-icon-theme"
 
 # Markdown预览主题
-"markdown.styles" = "https://cdn.jsdmirror.cn/gh/xrunes/vsc_md_preview_theme/style.css"
+"markdown.styles" = "https://cdn.jsdmirror.com/gh/xrunes/vsc_md_preview_theme/style.css"
 
 # 自定义Git路径
 "git.path" = "D:\\Application\\PortableGit\\bin\\git.exe"
